@@ -15,3 +15,7 @@ A brief, simple test of Jest tests. It tests a sample function and three currenc
 npm run start
 ```
 
+## 📋 Final note
+
+If you have any doubt about the functioning of any of the code lines, keep in mind that you will find comments with detailed instructions throughout the project.
+
